@@ -1,0 +1,9 @@
+Work on new version.
+More code.
+Keep going on.
+<<<<<<< Updated upstream
+Let move on.
+Stash this.
+=======
+Stash it ...
+>>>>>>> Stashed changes
